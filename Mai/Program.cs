@@ -10,6 +10,7 @@ namespace Mai
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Mai");
         }
     }
 }
